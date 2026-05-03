@@ -34,7 +34,7 @@ knownkeys.txt
 command_history.txt
 emi.json
 imgui.ini
-
+ponders_watched.json
 
 # --- OS junk ---
 .DS_Store
