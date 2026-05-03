@@ -20,7 +20,7 @@ fancymenu_data/
 ESM/
 downloads/
 defaultconfigs/
-**/.index/
+mods/.index/
 
 *.log
 *.hprof

@@ -1,0 +1,9 @@
+// Compost colors for aether_beyond_parity. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ambrosium_campfire, #a4c69a
+ambrosium_lantern, #cfa2cc
+golden_swet_ball, #ffffee
+holystone_lever, #555441
+skyroot_ladder, #d6917c
+zanite_bars, #8a44f4
+zanite_chain, #3c147c
+zanite_door, #893efa

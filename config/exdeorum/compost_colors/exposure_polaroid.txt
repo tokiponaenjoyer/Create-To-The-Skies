@@ -1,0 +1,5 @@
+// Compost colors for exposure_polaroid. You may add your own colors, change existing ones, or remove colors that aren't needed.
+high_sensitivity_instant_black_and_white_slide, #f7e8ff
+high_sensitivity_instant_color_slide, #e4d3ff
+instant_black_and_white_slide, #ffffff
+instant_color_slide, #ffffff

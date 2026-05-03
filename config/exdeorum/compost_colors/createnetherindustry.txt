@@ -1,0 +1,18 @@
+// Compost colors for createnetherindustry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blaze_fruit, #ffaa2c
+blaze_twig, #ffb622
+dead_blaze_rod, #e3bf6e
+fools_gold, #ffde5a
+incomplete_mysterious_ancient_mechanism, #fca4cf
+incomplete_skeleton_skull, #eaeaea
+lava_speedboat, #ddbfa1
+mysterious_ancient_mechanism, #ffb8d9
+obsession_snow, #ffffff
+soul_blaze_axe, #f7bb7c
+soul_blaze_pickaxe, #ebb890
+soul_blaze_rod, #d3b6c5
+soul_bottle_item, #98b9f7
+soul_item, #d3f8ff
+thick_soul_bottle_item, #9e80d7
+thick_soul_syrup_bucket, #9786b9
+thin_soul_fluid_bucket, #aab9d6

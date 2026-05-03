@@ -1,0 +1,7 @@
+// Compost colors for eternalnether. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cutlass, #e8dcb1
+netherite_bell, #4d3c43
+warped_ender_pearl, #1baaa1
+wither_waltz_music_disc, #322d40
+withered_bone, #232323
+withered_bone_meal, #5c5c5c

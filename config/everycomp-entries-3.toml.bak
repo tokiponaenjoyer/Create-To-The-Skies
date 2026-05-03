@@ -1,0 +1,473 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.crystal_type.aether]
+			ambrosium = true
+
+		[types.metal_type.createbigcannons]
+			cast_iron = true
+			bronze = true
+			steel = true
+			nethersteel = true
+
+		[types.metal_type.aether_treasure_reforging]
+			valkyrum = true
+			pyral = true
+
+		[types.metal_type.aethersteel]
+			aethersteel = true
+
+		[types.metal_type.deep_aether]
+			stratus = true
+
+		[types.metal_type.aethersdelight]
+			arkenium = true
+
+		[types.metal_type.create]
+			zinc = true
+			brass = true
+
+		[types.metal_type.enderscape]
+			shadoline = true
+
+		[types.metal_type.createaddition]
+			electrum = true
+
+		[types.metal_type.tropicraft]
+			manganese = true
+			shaka = true
+
+		[types.metal_type.twilightforest]
+			knightmetal = true
+			ironwood = true
+			fiery = true
+			steeleaf = true
+
+		[types.metal_type.undergarden]
+			cloggrum = true
+			froststeel = true
+			forgotten = true
+
+		[types.gem_type.deep_aether]
+			skyjade = true
+
+		[types.gem_type.enderscape]
+			nebulite = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+
+		[types.stone_type.aethersteel]
+			aetherslate = true
+
+		[types.stone_type.aether]
+			holystone = true
+
+		[types.stone_type.enderscape]
+			mirestone = true
+			veradite = true
+			kurodite = true
+
+		[types.stone_type.twilightforest]
+			deadrock = true
+			mazestone = true
+
+		[types.stone_type.undergarden]
+			depthrock = true
+			shiverstone = true
+			dreadrock = true
+			tremblecrust = true
+
+		[types.mud_type.deep_aether]
+			aether_mud = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.wood_type.createdieselgenerators]
+			chip_wood = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.wood_type.enderscape]
+			veiled = true
+			celestial = true
+			murublight = true
+
+		[types.wood_type.tropicraft]
+			mahogany = true
+			palm = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.deep_aether]
+			roseroot = true
+			flowering_roseroot = true
+			blue_roseroot = true
+			flowering_blue_roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.leaves_type.tropicraft]
+			mahogany = true
+			palm = true
+			kapok = true
+			fruit = true
+			grapefruit = true
+			lemon = true
+			lime = true
+			orange = true
+			papaya = true
+			white_flowering = true
+			red_flowering = true
+			blue_flowering = true
+			purple_flowering = true
+			yellow_flowering = true
+			plantain = true
+			jocote = true
+			red_mangrove = true
+			tall_mangrove = true
+			tea_mangrove = true
+			black_mangrove = true
+
+		[types.leaves_type.twilightforest]
+			thorn = true
+			beanstalk = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+#Disables specific entries
+[entries]
+
+		[entries.crystal_type.rechiseled]
+			block_edged = true
+			block_pillar_connecting = true
+			block_cut_connecting = true
+			block_pillar = true
+			block_cut = true
+			block_shiny_connecting = true
+			block_beams_connecting = true
+			block_tiles_connecting = true
+			block_bricks = true
+			block_bricks_connecting = true
+			block_edged_connecting = true
+			block_shiny = true
+			block_polished_connecting = true
+			block_bordered_diagonal_tiles = true
+			block_tiles = true
+			block_jewel = true
+			block_diagonal_tiles = true
+			block_smooth = true
+			block_beams = true
+			block_bordered_diagonal_tiles_connecting = true
+			block_polished = true
+
+		[entries.dust_type.rechiseled]
+			block_pillar = true
+			block_chiseled_clovers_connecting = true
+			block_patterned = true
+			block_bricks = true
+			block_bricks_connecting = true
+			block_small_tiles_connecting = true
+			block_brick_bordered = true
+			block_compressed = true
+			block_compressed_connecting = true
+			block_scales = true
+			block_paving = true
+			block_scales_connecting = true
+			block_paving_connecting = true
+			block_pillar_connecting = true
+			block_bordered_connecting = true
+			block_diagonal_tiles_connecting = true
+			block_bordered = true
+			block_small_tiles = true
+			block_polished_connecting = true
+			block_diagonal_tiles = true
+			block_smooth = true
+			block_crushed = true
+			block_patterned_connecting = true
+			block_chiseled_clovers = true
+			block_polished = true
+			block_circles_connecting = true
+			block_circles = true
+
+		[entries.metal_type.rechiseled]
+			block_plated = true
+			block_sheets = true
+			block_small_bricks_connecting = true
+			block_chiseled_connecting = true
+			block_patterned = true
+			block_connecting_connecting = true
+			block_framed = true
+			block_reinforced = true
+			block_pipes_connecting = true
+			block_processed = true
+			block_gears_connecting = true
+			block_framed_connecting = true
+			block_lines_connecting = true
+			block_processed_connecting = true
+			block_bordered_connecting = true
+			block_small_bricks = true
+			block_pulverized = true
+			block_bordered = true
+			block_chiseled = true
+			block_polished_connecting = true
+			block_smooth = true
+			block_patterned_connecting = true
+			block_lines = true
+			block_polished = true
+			block_gears = true
+			block_pipes = true
+
+		[entries.metal_type.minecraft]
+			nugget = true
+
+		[entries.metal_type.create]
+			table_cloth = true
+			tile_slab = true
+			ornate_window = true
+			ladder = true
+			ornate_window_pane = true
+			scaffolding = true
+			tiles = true
+			shingles = true
+			tile_stairs = true
+			door = true
+			sheet = true
+			shingle_slab = true
+			shingle_stairs = true
+			casing = true
+
+		[entries.gem_type.rechiseled]
+			block_pillar = true
+			block_chiseled_connecting = true
+			block_plating = true
+			block_patterned = true
+			block_striped_connecting = true
+			block_clovers_connecting = true
+			block_clovers = true
+			block_bordered_crosses = true
+			block_crystal = true
+			block_waxed = true
+			block_patterned_squares_connecting = true
+			block_bordered_plating_connecting = true
+			block_pillar_connecting = true
+			block_waxed_connecting = true
+			block_chiseled = true
+			block_crosses = true
+			block_polished_connecting = true
+			block_patterned_squares = true
+			block_smooth = true
+			block_bordered_crosses_connecting = true
+			block_patterned_connecting = true
+			block_bordered_plating = true
+			block_polished = true
+			block_crystal_connecting = true
+			block_striped = true
+
+		[entries.stone_type.rechiseled]
+			squares_slab_connecting = true
+			brick_paving_slab_connecting = true
+			smooth_tiles_slab = true
+			brick_paving_slab = true
+			bordered_slab = true
+			squares_stairs = true
+			smooth_rotated_bricks_stairs = true
+			brick_pattern = true
+			slated_stairs = true
+			waves_connecting = true
+			tiles_stairs_connecting = true
+			smooth_large_tiles_connecting = true
+			bordered_slab_connecting = true
+			small_tiles_slab_connecting = true
+			path_connecting = true
+			bordered = true
+			path_stairs = true
+			small_bricks_stairs = true
+			squares_slab = true
+			bordered_stairs_connecting = true
+			diagonal_bricks_slab_connecting = true
+			waves_slab = true
+			small_tiles_stairs = true
+			brick_paving_stairs_connecting = true
+			diagonal_bricks_stairs = true
+			small_tiles_slab = true
+			rotated_bricks_slab = true
+			brick_paving_stairs = true
+			small_tiles_connecting = true
+			waves_stairs = true
+			bordered_connecting = true
+			waves = true
+			big_tiles_stairs_connecting = true
+			small_tiles_stairs_connecting = true
+			smooth_tiles_stairs = true
+			tiles = true
+			small_bricks_stairs_connecting = true
+			smooth_rotated_bricks_stairs_connecting = true
+			small_bricks_slab = true
+			squares_connecting = true
+			crushed_stairs = true
+			path = true
+			slated_slab = true
+			diagonal_bricks_connecting = true
+			big_tiles_slab_connecting = true
+			rotated_bricks_slab_connecting = true
+			crushed = true
+			smooth_brick_paving_connecting = true
+			slated = true
+			diagonal_bricks_stairs_connecting = true
+			squares = true
+			brick_pattern_slab_connecting = true
+			smooth_large_tiles = true
+			smooth_large_tiles_slab_connecting = true
+			brick_paving_connecting = true
+			brick_pattern_connecting = true
+			smooth_brick_paving_slab_connecting = true
+			path_stairs_connecting = true
+			bordered_stairs = true
+			waves_stairs_connecting = true
+			smooth_tiles_stairs_connecting = true
+			squares_stairs_connecting = true
+			crushed_slab_connecting = true
+			small_bricks = true
+			small_bricks_connecting = true
+			smooth_large_tiles_stairs_connecting = true
+			crushed_slab = true
+			tiles_slab_connecting = true
+			smooth_brick_paving_slab = true
+			smooth_rotated_bricks_slab_connecting = true
+			tiles_stairs = true
+			rotated_bricks_connecting = true
+			smooth_large_tiles_slab = true
+			smooth_tiles_slab_connecting = true
+			smooth_rotated_bricks = true
+			waves_slab_connecting = true
+			smooth_large_tiles_stairs = true
+			rotated_bricks = true
+			big_tiles_connecting = true
+			smooth_brick_paving = true
+			diagonal_bricks = true
+			big_tiles = true
+			smooth_rotated_bricks_connecting = true
+			smooth_brick_paving_stairs_connecting = true
+			tiles_connecting = true
+			crushed_stairs_connecting = true
+			brick_paving = true
+			path_slab = true
+			tiles_slab = true
+			path_slab_connecting = true
+			crushed_connecting = true
+			diagonal_bricks_slab = true
+			smooth_tiles_connecting = true
+			small_bricks_slab_connecting = true
+			big_tiles_slab = true
+			smooth_brick_paving_stairs = true
+			big_tiles_stairs = true
+			smooth_tiles = true
+			brick_pattern_stairs = true
+			rotated_bricks_stairs = true
+			brick_pattern_stairs_connecting = true
+			rotated_bricks_stairs_connecting = true
+			small_tiles = true
+			brick_pattern_slab = true
+			smooth_rotated_bricks_slab = true
+
+		[entries.stone_type.create]
+			cut_wall = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_wall = true
+			cut = true
+			cut_stairs = true
+			small_brick_stairs = true
+			cut_bricks = true
+			small_bricks = true
+			layered = true
+			cut_brick_wall = true
+			pillar = true
+			cut_brick_stairs = true
+			polished_cut_wall = true
+			cut_slab = true
+			polished_cut = true
+			small_brick_slab = true
+			polished_cut_stairs = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.another_furniture]
+			drawer = true
+			table = true
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.twilightforest]
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+			banister = true
+			hollow_log_climbable = true
+			hollow_log = true
+
+		[entries.wood_type.tropicraft]
+			boardwalk = true

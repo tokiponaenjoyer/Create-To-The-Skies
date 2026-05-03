@@ -1,0 +1,10 @@
+// Compost colors for enderzoology. You may add your own colors, change existing ones, or remove colors that aren't needed.
+concussion_charge_minecart, #836fa0
+confusing_charge_minecart, #9b6ba7
+confusing_powder, #8a82aa
+ender_charge_minecart, #5e918a
+ender_fragment, #196e5f
+enderios, #466841
+hunting_bow, #905225
+owl_egg, #e3fbb6
+withering_dust, #292828

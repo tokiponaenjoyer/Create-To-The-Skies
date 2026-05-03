@@ -1,0 +1,8 @@
+// Compost colors for aether_treasure_reforging. You may add your own colors, change existing ones, or remove colors that aren't needed.
+neptune_mesh, #375ecc
+neptune_upgrade_smithing_template, #a18ea0
+phoenix_upgrade_smithing_template, #a2505b
+pyral_ingot, #ffb84a
+pyral_shard, #ff903c
+valkyrie_upgrade_smithing_template, #ebbe9d
+valkyrum_ingot, #fbfed6

@@ -1,0 +1,11 @@
+// Compost colors for envelope. You may add your own colors, change existing ones, or remove colors that aren't needed.
+address_tag, #ffe1a0
+letter, #ffe6a5
+letter_and_quill, #ffedc5
+package, #fcdeaf
+paper_box, #ffedab
+payback_box, #ffc2a5
+payback_package, #ffc5aa
+seal_stamp, #b57c5c
+sealed_letter, #ffe6a5
+sealed_package, #fcdeaf

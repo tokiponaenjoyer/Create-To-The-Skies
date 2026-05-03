@@ -1,0 +1,21 @@
+filename = 'Mini-Cursors-Light_v1.0.0.zip'
+name = 'Mini Cursors Light'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '9b1aa04bbaae5b0ec28afa3cc0837ece0d1d51128c5b186b52c92707e95d61f5c5f38c2005a729f7e56def56a0ae3c10acfdb90c7eeaa927f729431c8e394e70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Lqi1w91R/versions/AU5Puu3A/Mini-Cursors-Light_v1.0.0.zip'
+
+[update.modrinth]
+mod-id = 'Lqi1w91R'
+version = 'AU5Puu3A'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'o5fhgLeQ'
+type = 'REQUIRED'

@@ -1,0 +1,4 @@
+// Compost colors for tinycreate. You may add your own colors, change existing ones, or remove colors that aren't needed.
+tiny_analog_lever, #655439
+tiny_eight_segment, #c6a5a0
+tiny_redstone_link, #b28e94

@@ -1,0 +1,3 @@
+// Compost colors for create_factory_logistics. You may add your own colors, change existing ones, or remove colors that aren't needed.
+fluid_mechanism, #f09678
+incomplete_fluid_mechanism, #ea9072

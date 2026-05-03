@@ -1,0 +1,15 @@
+// Compost colors for create_ss_crate. You may add your own colors, change existing ones, or remove colors that aren't needed.
+incomplete_stronghold_corridor_crate_chunk, #e6f0bc
+incomplete_stronghold_fountain_crate_chunk, #dae8ca
+incomplete_stronghold_jail_cell_crate_chunk, #f7ffd4
+incomplete_stronghold_library_crate_chunk, #eeedb1
+incomplete_stronghold_portal_room_crate_chunk, #e4f5bc
+incomplete_stronghold_stair_crate_chunk, #f1facc
+incomplete_stronghold_storeroom_crate_chunk, #e0e4ac
+stronghold_corridor_crate_chunk, #d6e4b8
+stronghold_fountain_crate_chunk, #ccdec6
+stronghold_jail_cell_crate_chunk, #e3f8cf
+stronghold_library_crate_chunk, #e0e4ae
+stronghold_portal_room_crate_chunk, #d7ebb8
+stronghold_stair_crate_chunk, #d9e6be
+stronghold_storeroom_crate_chunk, #d3daa7

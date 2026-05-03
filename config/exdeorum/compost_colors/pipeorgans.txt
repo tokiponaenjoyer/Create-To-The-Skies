@@ -1,0 +1,8 @@
+// Compost colors for pipeorgans. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brass_boot, #ffc282
+brass_reed, #fcb97a
+copper_boot, #fb835c
+dark_oak_boot, #765c3a
+iron_boot, #cfcfcf
+music_roll, #fff1da
+tuning_wire, #8d3723
