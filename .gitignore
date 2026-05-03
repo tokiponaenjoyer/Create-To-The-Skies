@@ -1,2 +1,49 @@
+# --- User-specific / generated data (ignore all of your personal stuff) ---
+logs/
+local/
+midi-files/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+data/
+coremods/
+crash-reports/
+saves/
+screenshots/
+XaeroWaypoints_BACKUP240807/
+xaero/
+texturepacks/
+server-resource-packs/
+schematics/
+moonlight-global-datapacks/
+moddata/
+fancymenu_data/
+ESM/
+downloads/
+defaultconfigs/
+**/.index/
 
-.probe
+*.log
+*.hprof
+hotbar.nbt
+options.txt
+optionsshaders.txt
+servers.dat
+usercache.json
+usernamecache.json
+knownkeys.txt
+command_history.txt
+
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- IDE files ---
+.vscode/
+.sable/
+.probe/
+.mixin.out/
+.idea/
+*.iml
