@@ -32,6 +32,8 @@ usercache.json
 usernamecache.json
 knownkeys.txt
 command_history.txt
+emi.json
+imgui.ini
 
 
 # --- OS junk ---
