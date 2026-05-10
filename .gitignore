@@ -21,6 +21,8 @@ ESM/
 downloads/
 defaultconfigs/
 mods/.index/
+vista_ffmpeg_bin/
+vista_web_content_cache/
 
 *.log
 *.hprof
