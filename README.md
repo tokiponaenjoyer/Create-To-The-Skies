@@ -9,85 +9,82 @@
 </p>
 
 ---
-DISCLAIMER: Some parts of this readme might not be accurate. I'm not great at making readmes so I made this with AI. I will change this later to reflect what is actually true (though most of it is upon proofreading).
 
 ## ✨ What’s inside
 - **Create** – rotational power, mechanical contraptions, and opportunity for amazing automation.
-- **Mekanism** – high‑tech machinery, ore processing, and a digital miner.
+- **Mekanism** – high‑tech machinery, ore processing, and nuclear reactors.
 - **Create Aeronautics** – airships, planes, and custom physics contraptions.
 - **Skyblock Builder** – the core mod to make this a skyblock pack.
-- **Sophisticated Backpacks & Storage** – portable inventories and massive storage networks.
-- **Farmer’s Delight & many add‑ons** – cooking, farming, and culinary delights.
-- **Tons of quality‑of‑life mods** – better building, enhanced controls, shader support, and more.
+- **Aether I** - explore a dimension in the sky.
+- **Bumblezone** - collect bee materials for buffs throughout your gameplay!
+- **Just Dire Things** - The true endgame of the modpack. Use various machines to make Time Crystals.
+- **Tons of quality‑of‑life mods** – better building, enhanced immersion, social mods, and more.
 
 ---
 
 ## 🖥️ System requirements
-- **Minecraft** 1.21.1
-- **Java** 21 (e.g., [Microsoft OpenJDK 21](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21) or [Adoptium Temurin 21](https://adoptium.net/))
-- **NeoForge** 21.1.226 (bundled – no extra install needed)
-- **RAM** at least 4 GB allocated (6–8 GB recommended for a smooth experience)
-- **GPU** any mid‑range card with OpenGL 4.5+ (shaders are optional)
+- **Minecraft**: 1.21.1
+- **Mod loader**: NeoForge 21.1.226 (automatically installed by modern launchers)
+- **Java**: Java 21 (the launcher should handle this, but verify if you run into issues)
+- **RAM**: At least 4 GB allocated (6–8 GB recommended for a smooth experience)
+- **GPU**: Any mid‑range card with OpenGL 4.5+ (shaders are optional)
 
 ---
 
 ## 🚀 Installation
 
-### Method 1: Use Prism Launcher (recommended)
-1. **Download the latest release**  
-   Go to the [Releases page](https://github.com/tokiponaenjoyer/Create-To-The-Skies/releases) and download the `Source code (zip)` (or click the green **Code** button and choose **Download ZIP**).
-2. **Extract the archive** somewhere you like.
-3. Open **Prism Launcher**.
-   - If you don’t have it, [download it from prismlauncher.org](https://prismlauncher.org/) and install it first.
-4. Click **Add Instance** → **Import from ZIP**.
-5. Point it to the ZIP file you just downloaded (or select the extracted folder).
-6. The instance will be created with all mods, configs, and the correct NeoForge version.  
-7. Click **Launch** – you’re ready to play!
+> ⚠️ These instructions assume you are using **Prism Launcher**, **CurseForge App**, or **Modrinth App**.  
+> If you use another launcher (MultiMC, ATLauncher, etc.) and know how to manually add mods/configs, simply download the latest release ZIP and copy its contents into a NeoForge 1.21.1 instance.
 
-> 💡 *Prism Launcher also lets you import directly from a GitHub URL. If you prefer, add a new instance and choose **Import from URL**, then paste `https://github.com/tokiponaenjoyer/Create-To-The-Skies.git`.*
+### 1. Download the pack
+Go to the [Releases page](https://github.com/tokiponaenjoyer/Create-To-The-Skies/releases) and download the `Source code (zip)` file from the latest release.  
+*(Do not download the repository as a ZIP using the green “Code” button if you don't want to install the latest alpha – use the Releases page instead.)*
 
-### Method 2: Manual installation (no launcher import)
-If your launcher doesn’t support importing, you can still use the pack:
+### 2. Import into your launcher
 
-1. **Download** the repository as a ZIP (Code → Download ZIP).
-2. **Create a new vanilla Minecraft 1.21.1 instance** in your launcher of choice (MultiMC, CurseForge app, etc.). Make sure it uses **NeoForge 21.1.226**.
-3. **Copy the contents** of the ZIP (everything: `mods`, `config`, `kubejs`, `resourcepacks`, etc.) into the instance’s `.minecraft` folder, replacing any existing files.
-4. **Adjust memory** – make sure the instance has at least 4 GB RAM allocated (add JVM arguments `-Xmx6G` for example).
-5. **Launch**.
+#### 🟣 Prism Launcher
+1. Open Prism Launcher.
+2. Click **Add Instance** → **Import from ZIP**.
+3. Select the ZIP file you downloaded.
+4. The instance will be created with all mods, configs, and the correct NeoForge version.
+5. Click **Launch**.
 
-### Method 3: Clone with Git (advanced)
-If you have Git installed:
+#### 🟠 CurseForge App
+1. Open the CurseForge app and go to the **Minecraft** section.
+2. Click **Create Custom Profile**.
+3. Give it a name, choose **Minecraft 1.21.1**, and select **NeoForge** as the mod loader (latest version preferably).
+4. Click **Create**.  
+5. Right‑click the new profile → **Open Folder**.
+6. Extract the downloaded ZIP file directly into that folder, overwriting existing files.
+7. Go back to the CurseForge app, click the profile, and launch the game.
 
-```bash
-git clone https://github.com/tokiponaenjoyer/Create-To-The-Skies.git
-```
-Then point your launcher to that folder as the instance directory, or copy the files into an existing instance.
+> 💡 *Alternatively, some CurseForge versions support **Import → Import a Modpack** – choose the ZIP file directly.*
 
-Don’t have Git? No problem – use the ZIP download instead.
+#### 🟢 Modrinth App
+1. Open the Modrinth app and go to the **Library** tab.
+2. Click **Create Instance** → **Import from ZIP**.
+3. Select the ZIP file you downloaded.
+4. The instance will be automatically configured.
+5. Click **Launch**.
 
 ---
 
 ## 🎮 How to play
 
 1. **Create a new world** – the pack uses Skyblock Builder, so you’ll start on a tiny sky island.  
-2. **Follow the advancements** – they’ll guide you through early‑game survival.  
-3. **Use the quest book (whenever it's included)** – Look for the book in your inventory or bind a key. If you look in your inventory then it should be the book button in the top left.
-4. **Automate!** – the real fun begins when you set up your first press and rotational power and begin automating resource generation.
+2. **Follow your own path (for now)** – Progression is still being planned. There is **no quest book or guided progression** at the moment. Explore the mods, experiment with automation, and build at your own pace.  
+3. **Automate!** – the real fun begins when you set up your first press and rotational power and begin automating resource generation.
 
 ---
 
 ## 🛠️ Troubleshooting & tips
-- **Game doesn’t start / crashes?**  
-  Make sure you have **Java 21** and that your launcher uses it. Remove all JVM arguments except `-Xmx6G` (or your desired RAM).  
 - **Missing mods?**  
   The pack is designed to be self‑contained; don’t add extra mods unless you know they’re compatible.  
-- **Low FPS?**  
+- **Low FPS or game crash?**  
   Lower render distance, disable shaders (if enabled), or allocate more RAM.  
-- **Multiplayer?**
+- **Multiplayer?**  
   This pack is single‑player focused, but you can copy the `mods/` and `config/` folders to a server running NeoForge 1.21.1 to play with friends.
-- **Other?**
-If you know how to, I prefer for all issues to be submited via [issues](https://github.com/tokiponaenjoyer/Create-To-The-Skies/issues). Follow the template given.
-
+**If the problem persists, please report it on [Issues](https://github.com/tokiponaenjoyer/Create-To-The-Skies/issues) and attach both your `crash-report` (if one exists) and `latest.log` file.**
 ---
 
 ## 📜 License
@@ -98,7 +95,8 @@ The bundled mods remain under their **own individual licenses** – see each mod
 
 ## 🤝 Contributing & feedback
 Found a bug or have a suggestion?  
-- Open an [issue](https://github.com/tokiponaenjoyer/Create-To-The-Skies/issues) on GitHub.  
+- Open an [issue](https://github.com/tokiponaenjoyer/Create-To-The-Skies/issues) on GitHub.
+- Make a suggestion on the [Discord](discord.gg/xyJEj6gUbP).
 - Pull requests are welcome for config tweaks, quests, and documentation.
 
 ---
