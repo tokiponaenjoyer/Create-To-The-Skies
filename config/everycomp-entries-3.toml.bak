@@ -14,9 +14,6 @@
 			valkyrum = true
 			pyral = true
 
-		[types.metal_type.aethersteel]
-			aethersteel = true
-
 		[types.metal_type.deep_aether]
 			stratus = true
 
@@ -48,6 +45,11 @@
 			froststeel = true
 			forgotten = true
 
+		[types.metal_type.justdirethings]
+			ferricore = true
+			blazegold = true
+			eclipsealloy = true
+
 		[types.gem_type.deep_aether]
 			skyjade = true
 
@@ -67,9 +69,6 @@
 			clorite = true
 			raw_clorite = true
 			aseterite = true
-
-		[types.stone_type.aethersteel]
-			aetherslate = true
 
 		[types.stone_type.aether]
 			holystone = true

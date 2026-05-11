@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "0.0.2",
+        "releasedAt": 1778462595,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/tokiponaenjoyer/Create-To-The-Skies/releases/tag/ctts"
+            }
+        }
+    }
+  ]
+}

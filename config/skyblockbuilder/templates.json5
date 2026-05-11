@@ -68,7 +68,21 @@
   // The list of templates being available. The first entry is the default template.
   "templateList": [
     {
-      "name": "default",
+      "name": "Default Island",
+      "file": "default_island.nbt",
+      "spawns": "default",
+      "surroundingBlocks": "default",
+      "spreads": "default"
+    },
+    {
+      "name": "Cube Island",
+      "file": "cube_island.nbt",
+      "spawns": "default",
+      "surroundingBlocks": "default",
+      "spreads": "default"
+    },
+    {
+      "name": "Classic Island",
       "file": "default.nbt",
       "spawns": "default",
       "surroundingBlocks": "default",

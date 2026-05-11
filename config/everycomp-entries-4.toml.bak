@@ -33,6 +33,21 @@
 		[types.metal_type.createaddition]
 			electrum = true
 
+		[types.metal_type.tropicraft]
+			manganese = true
+			shaka = true
+
+		[types.metal_type.twilightforest]
+			knightmetal = true
+			ironwood = true
+			fiery = true
+			steeleaf = true
+
+		[types.metal_type.undergarden]
+			cloggrum = true
+			froststeel = true
+			forgotten = true
+
 		[types.gem_type.deep_aether]
 			skyjade = true
 
@@ -64,6 +79,16 @@
 			veradite = true
 			kurodite = true
 
+		[types.stone_type.twilightforest]
+			deadrock = true
+			mazestone = true
+
+		[types.stone_type.undergarden]
+			depthrock = true
+			shiverstone = true
+			dreadrock = true
+			tremblecrust = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -88,6 +113,25 @@
 			celestial = true
 			murublight = true
 
+		[types.wood_type.tropicraft]
+			mahogany = true
+			palm = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
@@ -105,6 +149,46 @@
 			cruderoot = true
 			conberry = true
 			sunroot = true
+
+		[types.leaves_type.tropicraft]
+			mahogany = true
+			palm = true
+			kapok = true
+			fruit = true
+			grapefruit = true
+			lemon = true
+			lime = true
+			orange = true
+			papaya = true
+			white_flowering = true
+			red_flowering = true
+			blue_flowering = true
+			purple_flowering = true
+			yellow_flowering = true
+			plantain = true
+			jocote = true
+			red_mangrove = true
+			tall_mangrove = true
+			tea_mangrove = true
+			black_mangrove = true
+
+		[types.leaves_type.twilightforest]
+			thorn = true
+			beanstalk = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
 
 #Disables specific entries
 [entries]
@@ -377,3 +461,13 @@
 		[entries.wood_type.create]
 			window_pane = true
 			window = true
+
+		[entries.wood_type.twilightforest]
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+			banister = true
+			hollow_log_climbable = true
+			hollow_log = true
+
+		[entries.wood_type.tropicraft]
+			boardwalk = true

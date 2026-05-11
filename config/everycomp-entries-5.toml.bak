@@ -365,10 +365,6 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
-		[entries.wood_type.boatload]
-			large_boat = true
-			furnace_boat = true
-
 		[entries.wood_type.another_furniture]
 			drawer = true
 			table = true

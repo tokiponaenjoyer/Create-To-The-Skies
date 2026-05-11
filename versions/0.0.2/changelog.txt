@@ -1,0 +1,3 @@
+Added skyblock islands
+Removed some mods to increase preformance
+Configured Modpack Update Checker so these changelogs are in game now.

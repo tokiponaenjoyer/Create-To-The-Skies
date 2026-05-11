@@ -1,10 +1,10 @@
 {
   "schemaVersion": 9,
-  "currentVersion": "1.0.0",
-  "modpackName": "Modpack Name Goes Here",
-  "modpackAuthor": "My Modpack Studio",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "currentVersion": "0.0.2",
+  "modpackName": "Create: To The Skies",
+  "modpackAuthor": "Studio Citranana",
+  "modpackReleaseType": "alpha",
+  "updateCheckerId": "https://github.com/tokiponaenjoyer/Create-To-The-Skies/blob/main",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,

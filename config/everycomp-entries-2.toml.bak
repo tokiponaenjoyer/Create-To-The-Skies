@@ -189,6 +189,9 @@
 			wigglewood = true
 			grongle = true
 
+		[types.leaves_type.exdeorum]
+			infested = true
+
 #Disables specific entries
 [entries]
 

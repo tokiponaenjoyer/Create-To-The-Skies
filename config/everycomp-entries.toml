@@ -36,11 +36,6 @@
 			fiery = true
 			steeleaf = true
 
-		[types.metal_type.undergarden]
-			cloggrum = true
-			froststeel = true
-			forgotten = true
-
 		[types.metal_type.justdirethings]
 			ferricore = true
 			blazegold = true
@@ -78,12 +73,6 @@
 			deadrock = true
 			mazestone = true
 
-		[types.stone_type.undergarden]
-			depthrock = true
-			shiverstone = true
-			dreadrock = true
-			tremblecrust = true
-
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -118,11 +107,6 @@
 			mining = true
 			sorting = true
 
-		[types.wood_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
-
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
@@ -153,11 +137,6 @@
 			transformation = true
 			mining = true
 			sorting = true
-
-		[types.leaves_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
 
 		[types.leaves_type.exdeorum]
 			infested = true

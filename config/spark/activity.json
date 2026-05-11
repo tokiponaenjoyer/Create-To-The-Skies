@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TokiPonaEnjoyer",
+      "uniqueId": "bd26a6e7-d86c-4106-a993-b35847775fa4"
+    },
+    "time": 1778459565926,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ft8qHSFsxU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TokiPonaEnjoyer",
+      "uniqueId": "bd26a6e7-d86c-4106-a993-b35847775fa4"
+    },
+    "time": 1778459104015,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "/home/tony/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/ctts_v1/minecraft/config/spark/heap-2026-05-10_19.22.35.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TokiPonaEnjoyer",
+      "uniqueId": "bd26a6e7-d86c-4106-a993-b35847775fa4"
+    },
+    "time": 1778456918583,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "/home/tony/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/ctts_v1/minecraft/config/spark/heap-2026-05-10_18.46.29.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TokiPonaEnjoyer",
+      "uniqueId": "bd26a6e7-d86c-4106-a993-b35847775fa4"
+    },
+    "time": 1778455216984,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DpQfu0TrUZ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TokiPonaEnjoyer",
+      "uniqueId": "bd26a6e7-d86c-4106-a993-b35847775fa4"
+    },
+    "time": 1778454839356,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Jfrpp1Tipg"
+    }
+  }
+]

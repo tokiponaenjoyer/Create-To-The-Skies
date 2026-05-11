@@ -52,13 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "createlowheated": {
-    "basic_burner_info": true
-  },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -72,25 +65,8 @@
     "crucible": true,
     "sieve": true
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
-  },
   "ftbquests": {
     "barrier": true
-  },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
-  },
-  "twilightforest": {
-    "drying_rack": true,
-    "chiseled_bookshelf_spawner": true,
-    "quest_ram_wool": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -103,10 +79,39 @@
     "block_properties": false,
     "mod_name": true
   },
-  "corpse": {
-    "corpse": true
-  },
   "balm": {
     "jade": true
+  },
+  "createlowheated": {
+    "basic_burner_info": true
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }
