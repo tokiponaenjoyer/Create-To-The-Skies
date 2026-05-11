@@ -4,7 +4,7 @@
   "modpackName": "Create: To The Skies",
   "modpackAuthor": "Studio Citranana",
   "modpackReleaseType": "alpha",
-  "updateCheckerId": "https://github.com/tokiponaenjoyer/Create-To-The-Skies/blob/main",
+  "updateCheckerId": "https://raw.githubusercontent.com/tokiponaenjoyer/Create-To-The-Skies/refs/heads/main",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
