@@ -41,6 +41,9 @@ ponders_watched.json
 kubejs/client_scripts/jsconfig.json
 kubejs/server_scripts/jsconfig.json
 kubejs/startup_scripts/jsconfig.json
+config/iris.properties
+config/drippyloadingscreen/early_window_reference.properties
+
 
 # Remove ProbeJS, since it is only for developing
 # KubeJS code and ProbeJS is buggy with other mods usually
