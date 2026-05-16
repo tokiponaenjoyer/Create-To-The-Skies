@@ -43,8 +43,6 @@
 		resolution_scale = 8
 		#Enables rendering of debug information for televisions
 		render_debug = false
-		#Attempts to disable iris shaders in the live feed view
-		iris_off_hack = true
 
 	[television.wave_gate]
 		#Enable FFmpeg use. This is needed if you want to use the Wave Gate
@@ -58,3 +56,5 @@
 		scaling_mode = "COVER"
 		#Enable bilinear sampling for rescaled images. Enable for a less pixelated look
 		bilinear_sampling = false
+		#A list of regex which will filter out valid URLs. At least one of these must match for a URL video to work
+		save_urls = []
