@@ -37,8 +37,8 @@
 > If you use another launcher (MultiMC, ATLauncher, etc.) and know how to manually add mods/configs, simply download the latest release ZIP and copy its contents into a NeoForge 1.21.1 instance.
 
 ### 1. Download the pack
-Go to the [Releases page](https://github.com/tokiponaenjoyer/Create-To-The-Skies/releases) and download the `Source code (zip)` file from the latest release.  
-*(Do not download the repository as a ZIP using the green “Code” button if you don't want to install the latest alpha – use the Releases page instead.)*
+Go to the [Releases page](https://github.com/tokiponaenjoyer/Create-To-The-Skies/releases) and download the `alphaX-LAUNCHER` file for the latest version and for your mod launcher. If you have experience with modpacks then you can download the `Source code.zip` or `Source code.tar.gz` files from the latest release as well.  
+*(Do not download the repository as a ZIP using the green “Code” button if you don't want to install the latest build as it might be unstable – use the Releases page instead.)*
 
 ### 2. Import into your launcher
 
