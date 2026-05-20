@@ -261,13 +261,13 @@
     "curseForgeHash": 3329807613,
     "modrinthHash": "6d67f855c20bc6392763cfb22e1152da4e8015b4"
   },
-  "cc-tweaked-1.21.1-forge-1.118.0.jar": {
-    "jarName": "cc-tweaked-1.21.1-forge-1.118.0.jar",
+  "cc-tweaked-1.21.1-forge-1.119.0.jar": {
+    "jarName": "cc-tweaked-1.21.1-forge-1.119.0.jar",
     "modId": "computercraft",
     "name": "CC: Tweaked",
-    "version": "1.118.0",
-    "curseForgeHash": 1857124240,
-    "modrinthHash": "bbb1431befefbf56991ef0a0aad25fffedcfdfbc"
+    "version": "1.119.0",
+    "curseForgeHash": 598921224,
+    "modrinthHash": "ba7fd171500afb1a20106cd5c9d62917a2cc11b1"
   },
   "ccgraphics-1.21.1-forge-0.1.5.jar": {
     "jarName": "ccgraphics-1.21.1-forge-0.1.5.jar",
@@ -509,13 +509,13 @@
     "curseForgeHash": 3868004730,
     "modrinthHash": "4251563ec3c21048cf0f097dd0c6d21f2475507b"
   },
-  "CreateDragonsPlus-1.10.0b.jar": {
-    "jarName": "CreateDragonsPlus-1.10.0b.jar",
+  "CreateDragonsPlus-1.10.1.jar": {
+    "jarName": "CreateDragonsPlus-1.10.1.jar",
     "modId": "create_dragons_plus",
     "name": "Create: Dragons Plus",
-    "version": "1.10.0b",
-    "curseForgeHash": 2901045699,
-    "modrinthHash": "e50ae4f50173b12232b8dbd6b85568b4b657c0cf"
+    "version": "1.10.1",
+    "curseForgeHash": 1801152909,
+    "modrinthHash": "0759898cc7ca22ece49e7d7a210db8becfd79cdf"
   },
   "createenderlink-1.4.1+mc1.21.1-neoforge.jar": {
     "jarName": "createenderlink-1.4.1+mc1.21.1-neoforge.jar",
@@ -930,13 +930,13 @@
     "curseForgeHash": 1959362130,
     "modrinthHash": "f8b558f8c464f202f4a88a44332b3a495c0dc727"
   },
-  "fancymenu_neoforge_3.9.0_MC_1.21.1.jar": {
-    "jarName": "fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
+  "fancymenu_neoforge_3.9.1_MC_1.21.1.jar": {
+    "jarName": "fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
     "modId": "fancymenu",
     "name": "FancyMenu",
-    "version": "3.9.0",
-    "curseForgeHash": 837933477,
-    "modrinthHash": "700c03f95de48c0a6c41212978d751a387bf15fc"
+    "version": "3.9.1",
+    "curseForgeHash": 416362275,
+    "modrinthHash": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34"
   },
   "farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar": {
     "jarName": "farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar",
@@ -1303,13 +1303,13 @@
     "curseForgeHash": 2400620410,
     "modrinthHash": "746eea80e0df09b873f3e9b3883d8cbf889b0912"
   },
-  "moonlight-neoforge-1.21.1-3.0.7.jar": {
-    "jarName": "moonlight-neoforge-1.21.1-3.0.7.jar",
+  "moonlight-neoforge-1.21.1-3.0.9.jar": {
+    "jarName": "moonlight-neoforge-1.21.1-3.0.9.jar",
     "modId": "moonlight",
     "name": "Moonlight Lib",
-    "version": "1.21.1-3.0.7",
-    "curseForgeHash": 3090681879,
-    "modrinthHash": "d2a8f9b2a7ddd7dc72cc880a4b2aaaacda72c42c"
+    "version": "1.21.1-3.0.9",
+    "curseForgeHash": 3607646210,
+    "modrinthHash": "a2f27a3a18e548b32d7ec7bbd722bd443e43481f"
   },
   "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
     "jarName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -1399,13 +1399,13 @@
     "curseForgeHash": 2531601297,
     "modrinthHash": "df2800c721e8a588dde48bc4b426707eccf712b6"
   },
-  "particular-1.21.1-NeoForge-1.1.7.jar": {
-    "jarName": "particular-1.21.1-NeoForge-1.1.7.jar",
+  "particular-1.21.1-NeoForge-1.5.0.jar": {
+    "jarName": "particular-1.21.1-NeoForge-1.5.0.jar",
     "modId": "particular",
-    "name": "Particular",
-    "version": "1.1.7",
-    "curseForgeHash": 3794983036,
-    "modrinthHash": "39d2fa3c396bf75a00078922dd6c2a7bf9f63f46"
+    "name": "Particular Reforged",
+    "version": "1.5.0",
+    "curseForgeHash": 244902084,
+    "modrinthHash": "6d240e1189db514b8607abbb32eb8153983abc84"
   },
   "pet_cemetery-1.21.1-3.0.1.jar": {
     "jarName": "pet_cemetery-1.21.1-3.0.1.jar",
@@ -1463,13 +1463,13 @@
     "curseForgeHash": 3066111022,
     "modrinthHash": "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2"
   },
-  "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar": {
-    "jarName": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+  "railways-0.2.0+neoforge-mc1.21.1.jar": {
+    "jarName": "railways-0.2.0+neoforge-mc1.21.1.jar",
     "modId": "railways",
     "name": "Create: Steam \u0027n\u0027 Rails 1.21.1",
-    "version": "0.2.0-beta.2+neoforge-mc1.21.1",
-    "curseForgeHash": 3940731460,
-    "modrinthHash": "2767bb73a33358b7796239310416b13db476f0b4"
+    "version": "0.2.0+neoforge-mc1.21.1",
+    "curseForgeHash": 2889177364,
+    "modrinthHash": "9d52eef0772b81de397271b98c0201a59733f9c6"
   },
   "real_carpentry-1.0.0-neoforge-1.21.1.jar": {
     "jarName": "real_carpentry-1.0.0-neoforge-1.21.1.jar",
@@ -1815,13 +1815,13 @@
     "curseForgeHash": 697495683,
     "modrinthHash": "723a03a67f81dd42aa2e9a07b1ff665d18d80421"
   },
-  "VanillaBackport-neoforge-1.21.1-1.1.7.1.jar": {
-    "jarName": "VanillaBackport-neoforge-1.21.1-1.1.7.1.jar",
+  "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar": {
+    "jarName": "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
     "modId": "vanillabackport",
     "name": "VanillaBackport",
-    "version": "1.1.7.1",
-    "curseForgeHash": 2977406004,
-    "modrinthHash": "4ea45ca948581d12a40a62ebc1b99692b646abd5"
+    "version": "1.1.7.4",
+    "curseForgeHash": 2485288639,
+    "modrinthHash": "ddf5d98cc31d1c3b9da67caab254f8f2b77fbc60"
   },
   "vista-neoforge-1.21.1-4.3.1.jar": {
     "jarName": "vista-neoforge-1.21.1-4.3.1.jar",
